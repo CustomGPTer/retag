@@ -1,15 +1,8 @@
-Retag 1.1 for Android.
+Retag 1.1.1 ties Retag into TorusApps.com.
 
-**Added**
-- Drag the pin on the location map to move it. The pin lifts clear of your finger so you can see its point, and the latitude and longitude follow it as it moves.
-- Folder buttons along the bottom of the photo map. Tick one or more to show only the photos in those folders. Your choice is remembered.
+- Retag's page, the privacy policy and update checks now use torusapps.com; the update check reads the signed TorusApps catalogue.
+- More apps opens torusapps.com.
+- Settings › About now shows the version, Developed by Jonathan Jackson, the privacy policy and hello@torusapps.com.
+- A new 2-second opening screen, and Android 12+ opens on Retag's own colours with no white flash.
 
-**Changed**
-- The photo map now shows each place as a small photo on a pin, with a count where several photos share it.
-
-**Fixed**
-- The search box on the location map was hidden behind the map.
-
-Full notes: https://customgpter.github.io/retag/releases.html
-
-Android 11 or later. Download `Retag.apk` below and open it to install. It installs over 1.0 and keeps what you have saved.
+Installs over the earlier version and keeps everything.
